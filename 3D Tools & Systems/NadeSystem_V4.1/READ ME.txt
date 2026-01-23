@@ -7,15 +7,15 @@
 本品は下記バージョンで作成しています。これ未満のバージョンで導入を行う場合、不具合が発生する場合があります。
 
 ・Unity 2022.3.22f1
-・VRChat SDK Base/Avatars V3.8.2
-・Modular Avatar V1.13.4
-・Non-Destructive Modular Framework V1.8.3
+・VRChat SDK Base/Avatars V3.10.1
+・Modular Avatar V1.15.1
+・Non-Destructive Modular Framework V1.10.0
 
 
 ○導入手順
 
 1. Modular Avatar(https://modular-avatar.nadena.dev/) をプロジェクトへインポートする
-3. 本品(NadeSystem_V4.0.unitypackage) をプロジェクトへインポートする
+3. 本品(NadeSystem_V4.1.unitypackage) をプロジェクトへインポートする
 4. Unity上部のツールバーからRedNightWorks→NadeSystemInstallerを開く
 5. Avatar欄で導入したいアバターを選択する
 6. Setup!ボタンを押す
@@ -92,7 +92,7 @@ NadeSystemInstallerのオプションについて
 
 
 ○利用規約
-BOOTHページへ記載している利用規約と齟齬がある場合、BOOTHページのものが優先されます。
+BOOTHページへ記載している利用規約と齟齬がある場合、BOOTHページ(https://rednightworksvrc.booth.pm/items/6174567)のものが優先されます。
 本製品を利用する上で、利用者は下記の利用規約に同意するものとします。
 
 ・本品を利用したことによる損害、トラブル等において当方は一切の責任を負いません
