@@ -1,0 +1,10 @@
+LightLimitChanger v2 を導入後のプロジェクトを用意します。
+
+1. ヒエラルキーに導入したアバターを用意
+2. 導入したいアバターを右クリック
+3. 出てくるメニューから、Light Limit Changer → Setupをクリック
+4. アバター内に生成されるLight Limit Changerオブジェクトから、任意で設定を変更する
+5. アバターをアップロード、またはGesture Managerなどを活用して動作を確認
+
+詳しくはこちらのドキュメントサイトで解説しています
+https://azukimochi.github.io/LLC-Docs/docs/v2/tutorial/howtouse-basic
